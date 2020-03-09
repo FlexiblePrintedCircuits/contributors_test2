@@ -4,7 +4,17 @@
   ],
   "imageSize": 100,
   "commit": false,
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "FlexiblePrintedCircuits",
+      "name": "FPC_COMMUNITY(YugeHayata)",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/43064745?v=4",
+      "profile": "https://yugehayata.sakura.ne.jp/",
+      "contributions": [
+        "design"
+      ]
+    }
+  ],
   "contributorsPerLine": 7,
   "projectName": "contributors_test2",
   "projectOwner": "FlexiblePrintedCircuits",

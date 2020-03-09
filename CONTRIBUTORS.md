@@ -12,12 +12,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://yugehayata.sakura.ne.jp/"><img src="https://avatars2.githubusercontent.com/u/43064745?v=4" width="100px;" alt=""/><br /><sub><b>FPC_COMMUNITY(YugeHayata)</b></sub></a><br /><a href="#design-FlexiblePrintedCircuits" title="Design">🎨</a></td>
   </tr>
-  <tr>
-    <td align="center"><a href="https://yugehayata.sakura.ne.jp/"><img src="https://avatars2.githubusercontent.com/u/43064745?v=4" width="100px;" alt=""/><br /><sub><b>FPC_COMMUNITY(YugeHayata)</b></sub></a><br /><a href="#design-FlexiblePrintedCircuits" title="Design">🎨</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://yugehayata.sakura.ne.jp/"><img src="https://avatars2.githubusercontent.com/u/43064745?v=4" width="100px;" alt=""/><br /><sub><b>FPC_COMMUNITY(YugeHayata)</b></sub></a><br /><a href="#design-FlexiblePrintedCircuits" title="Design">🎨</a></td>
-  </tr>
 </table>
 
 <!-- markdownlint-enable -->
