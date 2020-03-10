@@ -9,6 +9,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
+  <tr>
+    <td align="center"><a href="https://github.com/sa-0608"><img src="https://avatars3.githubusercontent.com/u/53518018?v=4" width="100px;" alt=""/><br /><sub><b>sa-0608</b></sub></a><br /><a href="#design-sa-0608" title="Design">🎨</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
