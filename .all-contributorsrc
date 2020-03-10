@@ -4,7 +4,17 @@
   ],
   "imageSize": 100,
   "commit": false,
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "sa-0608",
+      "name": "sa-0608",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/53518018?v=4",
+      "profile": "https://github.com/sa-0608",
+      "contributions": [
+        "design"
+      ]
+    }
+  ],
   "contributorsPerLine": 7,
   "projectName": "contributors_test2",
   "projectOwner": "FlexiblePrintedCircuits",
